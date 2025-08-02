@@ -1,5 +1,5 @@
 # 💫 About Me:
-Formerly a Data Scientist navigating the chaos of spaghetti notebook code, I've since transitioned to writing clean, production-ready code and building robust end-to-end ML pipelines.<br><br>What I do:<br>- Build scalable and maintainable AI powered solutions.<br>- Love programming and learning different styles of coding.<br>- When I'm not immersed in AI or engineering elegant systems, you’ll either find me at the gym, deep into a binge-worthy series, or geeking out over car videos.
+Formerly a Data Scientist navigating the chaos of spaghetti notebook code, I've since transitioned to writing clean, production-ready code and building robust end-to-end ML pipelines and systems.<br><br>What I do:<br>- Build scalable and maintainable AI powered solutions.<br>- Love programming and learning different styles of coding.<br>- When I'm not immersed in AI or engineering elegant systems, you’ll either find me at the gym, deep into a binge-worthy series, or geeking out over car videos.
 
 
 ## 🌐 Socials:
